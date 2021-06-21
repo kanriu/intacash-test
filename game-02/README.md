@@ -1,4 +1,4 @@
-#Game 02
+# Game 02
 
 
 Se inicia con el archivo "gildedRose.js"

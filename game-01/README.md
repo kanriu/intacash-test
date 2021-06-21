@@ -1,4 +1,4 @@
-#Game 01:
+# Game 01:
 
 
 Se inicia con el archivo "game-01.js"
